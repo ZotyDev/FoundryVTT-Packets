@@ -1,8 +1,9 @@
 {
-    "id": "YOUR MODULE ID",
-    "title": "YOUR MODULE TITLE",
-    "description": "YOUR MODULE DESCRIPTION",
+    "id": "packets",
+    "title": "📦 Packets (Library)",
+    "description": "Library that adds data manipulation helpers.",
     "version": "1.0.0",
+    "library": true,
     "authors": [
         {
             "name": "ZotyDev",
@@ -25,12 +26,12 @@
         "verified": "11"
     },
     "license": "./LICENSE",
-    "url": "https://github.com/USERNAME/MODULE",
-    "bugs": "https://github.com/USERNAME/MODULE/issues",
-    "manifest": "https://github.com/USERNAME/MODULE/releases/latest/download/module.json",
-    "download": "https://github.com/USERNAME/MODULE/releases/latest/download/module.zip",
-    "readme": "https://github.com/USERNAME/MODULE/blob/main/README.md",
-    "changelog": "https://github.com/USERNAME/MODULE/blob/main/CHANGELOG.md",
+    "url": "https://github.com/ZotyDev/FoundryVTT-Packets",
+    "bugs": "https://github.com/ZotyDev/FoundryVTT-Packets/issues",
+    "manifest": "https://github.com/ZotyDev/FoundryVTT-Packets/releases/latest/download/module.json",
+    "download": "https://github.com/ZotyDev/FoundryVTT-Packets/releases/latest/download/module.zip",
+    "readme": "https://github.com/ZotyDev/FoundryVTT-Packets/blob/main/README.md",
+    "changelog": "https://github.com/ZotyDev/FoundryVTT-Packets/blob/main/CHANGELOG.md",
     "relationships": {},
     "esmodules": [
         "./module/scripts/module.js"
