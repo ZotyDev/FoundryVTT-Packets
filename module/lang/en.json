@@ -1,2 +1,10 @@
 {
+    "packets": {
+        "error": {
+            "noSavePermission": "[📦 Packets] You don't have enough permission to save packets, and no one online can do it, please try again when someone with enough permissions is online"
+        },
+        "warn": {
+            "noFirstLoadPermission": "[📦 Packets] You don't have enough permission to load packets directly from the server, and no one online can do it, please note that the data from the modules that use 📦 Packets has a extremely small chance of being outdated"
+        }
+    }
 }

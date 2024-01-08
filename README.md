@@ -1,4 +1,4 @@
-<a href="https://foundryvtt.com/packages/object-interaction-fx">
+<a href="https://foundryvtt.com/packages/packets">
     <p align="center">
         <img src="https://raw.githubusercontent.com/ZotyDev/FoundryVTT-Packets/main/branding/title.png" alt="Packets Title">
     </p>
@@ -24,4 +24,4 @@ Take a look at the [Documentation](https://modules.zoty.dev/packets/introduction
 ## Main Features
 - Store _"large"_ (compared to typical module development) data into `Packets`
 - Load and replicate `Packets` without worrying about networking and replication
-- Interact with the `Packets` using the [API](https://modules.zoty.dev/packets/apiReference.html)
+- Interact with `Packets` using the [API](https://modules.zoty.dev/packets/apiReference.html)

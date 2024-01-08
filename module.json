@@ -32,7 +32,26 @@
     "download": "https://github.com/ZotyDev/FoundryVTT-Packets/releases/latest/download/module.zip",
     "readme": "https://github.com/ZotyDev/FoundryVTT-Packets/blob/main/README.md",
     "changelog": "https://github.com/ZotyDev/FoundryVTT-Packets/blob/main/CHANGELOG.md",
-    "relationships": {},
+    "relationships": {
+        "requires": [
+            {
+                "id": "socketlib",
+                "type": "module",
+                "compatibility": {}
+            },
+            {
+                "id": "debugger",
+                "type": "module",
+                "compatibility": {}
+            },
+            {
+                "id": "toolbox",
+                "type": "module",
+                "compatibility": {}
+            }
+        ]
+    },
+    "socket": true,
     "esmodules": [
         "./module/scripts/module.js"
     ]
